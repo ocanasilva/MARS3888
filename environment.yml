@@ -10,4 +10,7 @@ dependencies:
   - xarray
   - netcdf4
   - natsort
+  - cartopy
+  - h5netcdf
+  - h5py
   - jupyterlab
