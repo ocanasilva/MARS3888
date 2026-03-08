@@ -13,4 +13,5 @@ dependencies:
   - cartopy
   - h5netcdf
   - h5py
+  - folium
   - jupyterlab
